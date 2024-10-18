@@ -14,7 +14,8 @@ void main() {
   ''';
 
   // Specify the directory of your Flutter project
-  var projectDirectory = '/home/marlin/code/flutterApp/graphland-dev/dinebd_mobielapp';
+  var projectDirectory =
+      '/home/marlin/code/flutterApp/graphland-dev/dinebd_partner_mobile_app';
 
   // Iterate through all Dart files in the project directory
   Directory(projectDirectory).listSync(recursive: true).forEach((entity) {
