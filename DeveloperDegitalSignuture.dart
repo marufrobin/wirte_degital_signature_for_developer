@@ -5,11 +5,11 @@ void main() {
   var authorInfo = '''
 
 -----------------------------------------------------------------------------
-        Author: Md Maruf Ahmed Robin
-        Title: Lead Mobile App Developer
-        Email: marufrobin00@gmail.com
-        GitHub: https://github.com/marufrobin
-        Website: https://marufrobin.com
+                  🌟  Author: Md Maruf Ahmed Robin
+                  💼  Title: Lead Mobile App Developer
+                  📧  Email: marufrobin00@gmail.com
+                  🐙  GitHub: https://github.com/marufrobin
+                  🌐  Website: https://marufrobin.com
 -----------------------------------------------------------------------------
   ''';
 
